@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.mnav .mar{
+    margin-left: 50%;
+}
+
+.ulh li a:hover{
+    color: gold !important;
+}
+#backimg{
+    background-image: url("./img/bg-masthead.jpg");
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -200px;
+    background-position: center;
+    padding-top: 5%;
+    text-align: center;
+    /* filter:opacity(20%) */
+    }
+    #backimg .hov:hover{
+        color: gold; 
+        cursor: pointer;
+    }
+    #round{
+        height: 100px;
+        width: 100px;
+        background: white;
+        border-radius: 100px
+    }
+    #bagw{
+        background: #1D809f
+    }
+    .fa{
+        font-size: 50px;
+        color: #1D809f;
+        
+    }
+    #bge2{
+        background-image: url("./img/bg-callout.jpg");
+    background-attachment: fixed;
+    height: 100vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: -200px;
+        background-position: center;
+        padding-top: 5%;
+        text-align: center;
+
+    }
+    #bgcd{
+        background-image: url("./img/portfolio-1.jpg");
+    background-attachment: fixed;
+    height: 50vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: -200px;
+        background-position: center;
+        padding-top: 5%;
+        text-align: center;
+      
+    }
+    #bgcd2{
+        background-image: url("./img/portfolio-2.jpg");
+    background-attachment: fixed;
+    height: 50vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: -200px;
+        background-position: center;
+        padding-top: 5%;
+        text-align: center;
+    }
+    #bgcd3{
+        background-image: url("./img/portfolio-3.jpg");
+    background-attachment: fixed;
+    height: 50vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: -200px;
+        background-position: center;
+        padding-top: 5%;
+        text-align: center;
+    }
+    #bgcd4{
+        background-image: url("./img/portfolio-4.jpg");
+    background-attachment: fixed;
+    height: 50vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: -200px;
+        background-position: center;
+        padding-top: 5%;
+        text-align: center;
+    }
+    #opt{
+        margin-top: 30%;
+        padding: 35px;
+        background: black;
+        opacity: 0.3;
+    }
+    #fdar{
+        height: 80px;
+        width: 80px;
+        background-color: #1D809f;
+        border-radius: 100px;
+    }
+    #cll{
+        color: white;
+        font-size: 40px;
+    }
