@@ -10077,7 +10077,7 @@ a.text-dark:hover, a.text-dark:focus {
         
     }
     #bge2{
-        background-image: url("./img/bg-callout.jpg");
+        background-image: url("../img/bg-callout.jpg");
     background-attachment: fixed;
     height: 100vh;
         background-size: cover;
@@ -10089,7 +10089,7 @@ a.text-dark:hover, a.text-dark:focus {
 
     }
     #bgcd{
-        background-image: url("./img/portfolio-1.jpg");
+        background-image: url("../img/portfolio-1.jpg");
     background-attachment: fixed;
     height: 50vh;
         background-size: cover;
@@ -10101,7 +10101,7 @@ a.text-dark:hover, a.text-dark:focus {
       
     }
     #bgcd2{
-        background-image: url("./img/portfolio-2.jpg");
+        background-image: url("../img/portfolio-2.jpg");
     background-attachment: fixed;
     height: 50vh;
         background-size: cover;
@@ -10112,7 +10112,7 @@ a.text-dark:hover, a.text-dark:focus {
         text-align: center;
     }
     #bgcd3{
-        background-image: url("./img/portfolio-3.jpg");
+        background-image: url("../img/portfolio-3.jpg");
     background-attachment: fixed;
     height: 50vh;
         background-size: cover;
@@ -10123,7 +10123,7 @@ a.text-dark:hover, a.text-dark:focus {
         text-align: center;
     }
     #bgcd4{
-        background-image: url("./img/portfolio-4.jpg");
+        background-image: url("../img/portfolio-4.jpg");
     background-attachment: fixed;
     height: 50vh;
         background-size: cover;

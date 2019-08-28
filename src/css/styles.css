@@ -41,7 +41,7 @@
         
     }
     #bge2{
-        background-image: url("./img/bg-callout.jpg");
+        background-image: url("../img/bg-callout.jpg");
     background-attachment: fixed;
     height: 100vh;
         background-size: cover;
@@ -53,7 +53,7 @@
 
     }
     #bgcd{
-        background-image: url("./img/portfolio-1.jpg");
+        background-image: url("../img/portfolio-1.jpg");
     background-attachment: fixed;
     height: 50vh;
         background-size: cover;
@@ -65,7 +65,7 @@
       
     }
     #bgcd2{
-        background-image: url("./img/portfolio-2.jpg");
+        background-image: url("../img/portfolio-2.jpg");
     background-attachment: fixed;
     height: 50vh;
         background-size: cover;
@@ -76,7 +76,7 @@
         text-align: center;
     }
     #bgcd3{
-        background-image: url("./img/portfolio-3.jpg");
+        background-image: url("../img/portfolio-3.jpg");
     background-attachment: fixed;
     height: 50vh;
         background-size: cover;
@@ -87,7 +87,7 @@
         text-align: center;
     }
     #bgcd4{
-        background-image: url("./img/portfolio-4.jpg");
+        background-image: url("../img/portfolio-4.jpg");
     background-attachment: fixed;
     height: 50vh;
         background-size: cover;
