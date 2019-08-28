@@ -11,7 +11,7 @@
     color: gold !important;
 }
 #backimg{
-    background-image: url("./img/bg-masthead.jpg");
+    background-image: url("../img/bg-masthead.jpg");
     background-attachment: fixed;
     height: 100vh;
     background-size: cover;
